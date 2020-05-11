@@ -1,8 +1,9 @@
-﻿Team Name,Abbreviation
+﻿Team,Abbreviation
 Atlanta Hawks,ATL
 Brooklyn Nets,BKN
+New Jersey Nets,BKN
 Boston Celtics,BOS
-Charlotte Hornets,CHA
+Charlotte Bobcats,CHA
 Chicago Bulls,CHI
 Cleveland Cavaliers,CLE
 Dallas Mavericks,DAL
@@ -14,12 +15,16 @@ Indiana Pacers,IND
 Los Angeles Clippers,LAC
 Los Angeles Lakers,LAL
 Memphis Grizzlies,MEM
+Vancouver Grizzlies,MEM
 Miami Heat,MIA
 Milwaukee Bucks,MIL
 Minnesota Timberwolves,MIN
 New Orleans Pelicans,NOP
+New Orleans Hornets,NOP
+New Orleans/Oklahoma City Hornets,NOP
 New York Knicks,NYK
 Oklahoma City Thunder,OKC
+Seattle SuperSonics,OKC
 Orlando Magic,ORL
 Philadelphia 76ers,PHI
 Phoenix Suns,PHX
@@ -29,3 +34,4 @@ San Antonio Spurs,SAS
 Toronto Raptors,TOR
 Utah Jazz,UTA
 Washington Wizards,WAS
+Washington Bullets,WAS
